@@ -16,6 +16,8 @@ dependencies:
   # Core Backend
   data_managing_core:
     path: /Users/joshua/Documents/Projects/data_managing_core
+  rune:
+    path: /Users/joshua/Documents/Projects/rune
 
   # State Management
   flutter_riverpod: ^2.3.6
